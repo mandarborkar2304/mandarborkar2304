@@ -1,5 +1,5 @@
 ![logo](https://github.com/mandarborkar2304/mandarborkar2304/blob/main/github-header-image%20(2).png)
-<h1 align="center">Hi 👋, I'm Mandar Borkar</h1>
+
 <h3 align="center">A Data Science, Machine Learning and Artificial Intelligence Enthusiast</h3>
 <img align="right" alt="coding" width="200" src="https://github.com/mandarborkar2304/mandarborkar2304/assets/64251657/fa01e641-85e2-4b53-a4a4-37b07dcd0b4b"> 
 
