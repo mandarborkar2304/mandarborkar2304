@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Star Constellation Project**
 
-- 📝 I regularly write articles on [https://snackableskills.blogspot.com/](https://snackableskills.blogspot.com/)
+- 📝 I write articles on [https://snackableskills.blogspot.com/](https://snackableskills.blogspot.com/)
 
 - 💬 Ask me about **Data, Analytics, AI, ML**
 
