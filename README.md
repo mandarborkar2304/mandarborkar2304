@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mandarborkar@gmail.com**
 
-- ⚡ Fun fact **I think I play a lot with Issues!**
+- ⚡ Fun fact **I'm self-taught mostly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
