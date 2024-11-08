@@ -2,15 +2,13 @@
 
 <h3 align="left">An Undergrad Student of AI and Data Science with passion and zeal to build solutions of the future.</h3>
 
-- 🔭 I’m currently working on **Data Science, LLMs, Generative AI, Vector DB**
+- 🔭 I’m currently working on **Data Science, Product Design, AI Products**
 
-- 🌱 I’m currently learning **LangChain, Pinecone, GenAI,**
-
-- 🤝 I’m looking for help with **Star Constellation Project**
+- 🌱 I’m currently learning **AI, Product Strategy**
 
 - 📝 I write articles on [https://snackableskills.blogspot.com/](https://snackableskills.blogspot.com/)
 
-- 💬 Ask me about **Data, Analytics, AI, ML**
+- 💬 Ask me about **Data Analytics, AI, Product Management**
 
 - 📫 How to reach me **mandarborkar@gmail.com**
 
