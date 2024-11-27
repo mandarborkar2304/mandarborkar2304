@@ -2,6 +2,8 @@
 
 <h3 align="left">An Undergrad Student of AI and Data Science with passion and zeal to build solutions of the future.</h3>
 
+- ⚡ Working as **Prompt Engineer Intern at iMocha**
+
 - 🔭 I’m currently working on **Data Science, Product Design, AI Products**
 
 - 🌱 I’m currently learning **AI, Product Strategy**
@@ -11,8 +13,6 @@
 - 💬 Ask me about **Data Analytics, AI, Product Management**
 
 - 📫 How to reach me **mandarborkar@gmail.com**
-
-- ⚡ Fun fact **I'm self-taught mostly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
