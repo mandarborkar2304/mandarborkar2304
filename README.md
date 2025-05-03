@@ -8,7 +8,7 @@
 
 - 📝 I write articles on [https://snackableskills.blogspot.com/](https://snackableskills.blogspot.com/)
 
-- 💬 Ask me about **Data Analytics, AI, Project Management**
+- 💬 Ask me about **Data Science, AI, Project Management**
 
 - 📫 How to reach me **mandarborkar@gmail.com**
 
