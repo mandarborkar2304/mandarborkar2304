@@ -2,7 +2,7 @@
 
 - ⚡ Working as **Prompt Engineer Intern at iMocha**
 
-- 🔭 I’m currently working on **TrueFramesAI**
+- 🔭 I’m currently working on **CodeAlchemist**
 
 - 🌱 I’m currently learning **Machine Learning, and Data Analytics Software Development**
 
