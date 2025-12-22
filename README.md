@@ -2,13 +2,13 @@
 
 - ⚡ Working as **Prompt Engineer Intern at iMocha**
 
-- 🔭 I’m currently working on **CodeAlchemist**
+- 🔭 I’m currently working on **Question-Difficulty Analyzer**
 
-- 🌱 I’m currently learning **Machine Learning, and Data Analytics Software Development**
+- 🌱 I’m currently learning **Gen AI, and Agentic AI**
 
 - 📝 I write articles on [https://snackableskills.blogspot.com/](https://snackableskills.blogspot.com/)
 
-- 💬 Ask me about **Data Science, AI, Project Management**
+- 💬 Ask me about **Data Science, AI, Gen AI**
 
 - 📫 How to reach me **mandarborkar@gmail.com**
 
