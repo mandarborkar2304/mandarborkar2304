@@ -1,6 +1,6 @@
-<h3 align="left">An Undergrad Student of AI and Data Science with passion and zeal to build solutions of the future.</h3>
+<h3 align="left">A recent graduate of AI and Data Science with passion and zeal to build solutions of the future.</h3>
 
-- ⚡ Working as **Prompt Engineer Intern at iMocha**
+- ⚡ Working as **Prompt Engineer Intern at iMocha (1+YOE)**
 
 - 🔭 I’m currently working on **Question-Difficulty Analyzer**
 
