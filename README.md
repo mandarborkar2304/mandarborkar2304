@@ -1,20 +1,10 @@
-# Hi, I'm Mandar 👋
+*Building production AI systems.*
 
-AI Engineer building production AI systems.
+My work focuses on LLM applications, retrieval systems, AI evaluation platforms, and cloud-native infrastructure. I enjoy solving engineering problems where software architecture, machine learning, and distributed systems intersect.
 
-I enjoy designing LLM applications, RAG pipelines, AI infrastructure, and developer tools that solve real-world problems at scale.
+Currently building reliable AI products while exploring scalable inference, Cloud AI, and MLOps.
 
-## Tech
+**Core Stack**  
+Python · Go · FastAPI · LangChain · LangGraph · AWS · GCP · Docker · ChromaDB · FAISS · Pinecone
 
-Python • FastAPI • Go • LangChain • LangGraph • LlamaIndex • AWS • GCP • Docker • PostgreSQL • ChromaDB • FAISS • Pinecone
-
-## Currently
-
-- Building production GenAI applications
-- Exploring Cloud AI & MLOps
-- Learning distributed AI systems and AI architecture
-
-## Let's Connect
-
-- LinkedIn: linkedin.com/in/mandarborkar9
-- Email: mandarborkar23@gmail.com
+Reach me at **mandarborkar23@gmail.com** or connect on **[LinkedIn/mandarborkar9](https://www.linkedin.com/in/mandarborkar9/)**.
