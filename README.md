@@ -1,8 +1,9 @@
-*Building production-grade AI systems that combine software engineering, machine learning, and cloud infrastructure.*
+*Building production-grade AI systems — where software, ML, and cloud meet.*
 
-My work focuses on LLM applications, retrieval systems, AI evaluation platforms, and cloud-native infrastructure. I enjoy solving engineering problems where software architecture, machine learning, and distributed systems intersect.
+- 🧠 LLM apps, RAG, and multi-agent systems in Python
+- ⚡ Scalable backend services in Go
+- 📊 AI evals & observability (LangSmith, Langfuse)
+- ☁️ Cloud-native infra on GCP & AWS
+- 🚀 Currently building DeepHire — AI agents + Go service layer
 
-Currently building reliable AI products while exploring scalable inference, Cloud AI, and MLOps.
-
-**Core Stack**  
-Python · Go · FastAPI · LangChain · LangGraph · VectorDBs · AWS · GCP · Docker
+**Stack:** Python · Go · FastAPI · LangChain · LangGraph · VectorDBs · AWS · GCP · Docker
