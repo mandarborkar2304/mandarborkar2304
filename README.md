@@ -1,9 +1,9 @@
-*Building production-grade AI systems — where software, ML, and cloud meet.*
+Hi, I'm Mandar 👋
 
-- 🧠 LLM apps, RAG, and multi-agent systems in Python
-- ⚡ Scalable backend services in Go
-- 📊 AI evals & observability (LangSmith, Langfuse)
-- ☁️ Cloud-native infra on GCP & AWS
-- 🚀 Currently building DeepHire — AI agents + Go service layer
+*Applied AI Engineer building production-grade systems at the intersection of software, ML, and cloud.*
 
-**Stack:** Python · Go · FastAPI · LangChain · LangGraph · VectorDBs · AWS · GCP · Docker
+- 🔭 Currently building DeepHire: a multi-agent AI system with a Go service layer
+- 🌱 Exploring scalable inference, MLOps, and distributed systems
+- ⚙️ **Python · Go · FastAPI · LangGraph · RAG · AWS · GCP · Docker**
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mandarborkar9/) · [email](mailto:mandarborkar23@gmail.com)
