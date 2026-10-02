@@ -1,9 +1,10 @@
-Hi, I'm Mandar 👋
+### Hi, I'm Mandar 👋
 
-*Applied AI Engineer building production-grade systems at the intersection of software, ML, and cloud.*
+*Backend & AI Systems Engineer building production data pipelines, evaluation harnesses, and RESTful APIs.*
 
-- 🔭 Currently building DeepHire: a multi-agent AI system with a Go service layer
-- 🌱 Exploring scalable inference, MLOps, and distributed systems
-- ⚙️ **Python · Go · FastAPI · LangGraph · RAG · AWS · GCP · Docker**
+- ⚙️ **Stack:** Python (FastAPI), Go, SQL (PostgreSQL), Docker, AWS, GCP, REST APIs
+- 🧪 **Focus:** AST Static Analysis, Deterministic LLM Evaluation Harnesses, Data Validation Pipelines
+- 💼 **Experience:** Enterprise code evaluation at iMocha | VLA Robotics data tooling at Zensar
+- 🎯 **Daily Focus:** Backend System Design, API Reliability & Concurrency, LeetCode (Algorithms & Data Structures)
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/mandarborkar9/) · [email](mailto:mandarborkar23@gmail.com)
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/mandarborkar9) · [Email](mailto:mandarborkar23@gmail.com)
